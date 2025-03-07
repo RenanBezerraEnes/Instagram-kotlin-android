@@ -17,7 +17,7 @@ Already has an account?
     <string name="next">Forward</string>
     <string name="name">Name</string>
     <string name="password_confirm">Confirm password</string>
-    <string name="continuee">Continue</string>
+    <string name="continuee">Next</string>
     <string name="agree_terms_policy">
 By clicking Next, you agree to our
 <b>Terms, Data Policy and Cookies Policy.</b>

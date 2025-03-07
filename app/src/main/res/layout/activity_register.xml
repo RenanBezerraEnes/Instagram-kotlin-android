@@ -15,6 +15,14 @@
         tools:layout="@layout/fragment_register_email"
         />
 
+    <fragment
+        android:id="@+id/register_name_password_fragment"
+        android:name="co.renanbezerra.instagram.register.view.RegisterNamePasswordFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout="@layout/fragment_register_email"
+        />
+
 
 
 </LinearLayout>
