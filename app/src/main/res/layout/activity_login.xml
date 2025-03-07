@@ -43,7 +43,7 @@
             </com.google.android.material.textfield.TextInputLayout>
 
             <com.google.android.material.textfield.TextInputLayout
-                android:id="@+id/login_edit_email_password"
+                android:id="@+id/login_edit_password_input"
                 style="@style/Theme.Instagram.FormEditTextInput"
                 app:hintEnabled="false">
 
@@ -58,6 +58,7 @@
             <Button
                 android:id="@+id/login_btn_enter"
                 style="@style/Theme.Instagram.Button"
+                android:enabled="false"
                 android:text="@string/enter" />
 
             <FrameLayout
