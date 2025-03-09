@@ -31,7 +31,7 @@ By clicking Next, you agree to our
     <string name="take_picture">Take a picture</string>
     <string name="search_gallery">Choose from Library</string>
     <string name="define_photo_profile">Set a profile picture</string>
-    <string name="jump">Jump</string>
+    <string name="jump">Skip</string>
     <string name="add_photo">Add a photo</string>
     <string name="home">Home</string>
     <string name="posts">Posts</string>
@@ -44,7 +44,7 @@ By clicking Next, you agree to our
     <string name="save">Save</string>
     <string name="title_activity_add">AddActivity</string>
     <string name="photo">Picture</string>
-    <string name="gallery">Galery</string>
+    <string name="gallery">Gallery</string>
     <string name="write_caption">Write a description…</string>
     <string name="share">Share</string>
     <string name="go">Forward</string>
