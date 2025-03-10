@@ -52,6 +52,6 @@ By clicking Next, you agree to our
     <string name="unfollow">Following / Unfollow</string>
     <string name="follow">Follow</string>
     <string name="logout">Do you want to leave?</string>
-    <string name="logout_action">Out</string>
+    <string name="logout_action">Logout</string>
     <string name="cancel">Cancel</string>
 </resources>
